@@ -1714,12 +1714,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/renanguimasilva/facebook-bot-sdk.git",
-                "reference": "a355b976282de89a01cec1ea68e09b354a8bb252"
+                "reference": "b70b2c288ec80e360385528255a7e2e7ac678299"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/renanguimasilva/facebook-bot-sdk/zipball/a355b976282de89a01cec1ea68e09b354a8bb252",
-                "reference": "a355b976282de89a01cec1ea68e09b354a8bb252",
+                "url": "https://api.github.com/repos/renanguimasilva/facebook-bot-sdk/zipball/b70b2c288ec80e360385528255a7e2e7ac678299",
+                "reference": "b70b2c288ec80e360385528255a7e2e7ac678299",
                 "shasum": ""
             },
             "require": {
@@ -1743,7 +1743,7 @@
                 }
             ],
             "description": "Teste Bot",
-            "time": "2020-01-05T16:12:29+00:00"
+            "time": "2020-01-05T19:42:53+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
