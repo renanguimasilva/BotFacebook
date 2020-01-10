@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use CodeBot\CallSendApi;
 use CodeBot\SenderRequest;
 use CodeBot\WebHook;
-use Codebot\Message\Text;
+use CodeBot\Message\Text;
 use Illuminate\Http\Request;
 
 class BotController extends Controller
